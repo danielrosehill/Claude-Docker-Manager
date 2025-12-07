@@ -1,0 +1,50 @@
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Docker-specific
+docker-compose.override.yml
+
+# Secrets and credentials
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+credentials.json
+secrets.json
+*secret*
+*password*
+
+# Backup files (may contain sensitive data)
+*.tar.gz
+*.tar
+*.zip
+*.bak
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private notes
+private
+private/
+notes.md
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
