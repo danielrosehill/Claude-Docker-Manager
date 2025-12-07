@@ -1,3 +1,7 @@
+[![Claude Code](https://img.shields.io/badge/Claude-Code-orange?style=flat-square&logo=anthropic)](https://claude.ai/code)
+[![Claude Code Projects](https://img.shields.io/badge/More-Claude%20Code%20Projects-blue?style=flat-square)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![GitHub Index](https://img.shields.io/badge/GitHub-Master%20Index-green?style=flat-square)](https://github.com/danielrosehill/Github-Master-Index)
+
 # Claude Docker Manager
 
 A Claude Code workspace template for managing Docker environments. This repository provides a structured workspace that enables Claude Code to effectively administer Docker containers, compose stacks, and multi-environment deployments.
@@ -173,3 +177,7 @@ MIT License - Feel free to use and adapt this template for your own Docker manag
 ## Contributing
 
 Contributions welcome! If you've added useful commands or agents, please submit a PR.
+
+---
+
+To view an index of my Claude Code related projects, [click here](https://github.com/danielrosehill/Claude-Code-Repos-Index).
